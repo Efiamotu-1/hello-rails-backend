@@ -47,7 +47,7 @@ This project is to implement a connection between a Ruby on Rails back-end and R
 This is the back-end side, developed in Ruby on Rails
 
 The React/Redux app is located in the following repository:
-https://github.com/Efiamotu-1/hello-react-backend
+https://github.com/Efiamotu-1/hello-react-front-end
 
 
 ## 🛠 Built With <a name="built-with"></a>
